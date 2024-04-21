@@ -3,7 +3,7 @@ A conversational retrieval chatbot to answer questions about sun and sunspots wi
 
 ![General flow](https://github.com/DanialAlyousef/Sun-sunspots-QA-chatbot-using-LangChain-V2/blob/8b725c8bc90cf4fa9a5badf835e2ed6eb1e978b8/images/general_chatbot_flow.png)
 
-This project is an upgrade to our [last chatbot](https://github.com/DanialAlyousef/Sun-sunspots-QA-chatbot-using-LangChain-V1/tree/main), it aims to create a chatbot to answer questions using preloaded documents about the sun and sunspots, the PDF files data was collected by [Tareq Alkhateb](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/) from [Spaceweatherlive](https://Spaceweatherlive.com) and [britannica](https://www.google.com/url?q=https://www.britannica.com/&sa=U&ved=2ahUKEwjw8emZhNOEAxXwTKQEHWn5AhQQFnoECAEQAg&usg=AOvVaw1l8HbzB_akmwfBYUA36v8z), but with this upgrade we added media retrieving feature.
+This project is an upgrade to our [last chatbot](https://github.com/DanialAlyou/Sun-sunspots-QA-chatbot-using-LangChain-V1/tree/main), it aims to create a chatbot to answer questions using preloaded documents about the sun and sunspots, the PDF files data was collected by [Tareq Alkhateb](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/) from [Spaceweatherlive](https://Spaceweatherlive.com) and [britannica](https://www.google.com/url?q=https://www.britannica.com/&sa=U&ved=2ahUKEwjw8emZhNOEAxXwTKQEHWn5AhQQFnoECAEQAg&usg=AOvVaw1l8HbzB_akmwfBYUA36v8z), but with this upgrade we added media retrieving feature.
 
 ## What we did in this upgrade:
  - We reformatted the PDF files to make the documents retrieving easier and media retrieving possible.
